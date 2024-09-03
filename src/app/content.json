@@ -1,0 +1,567 @@
+{
+  "heroSection": {
+    "heading": "Explore Projetos que Transformam Ideias em ",
+    "highlight": "Realidade",
+    "description": "Este blog apresenta artigos e dicas gerados por inteligência artificial, servindo como exemplo das possibilidades tecnológicas atuais. O conteúdo é inteiramente fictício e não reflete projetos reais, mas foi criado para ilustrar ideias e conceitos de forma acessível e interessante. Entre em contato através do meu e-mail joaoaugustopfpf@gmail.com",
+    "ctaButtonText": "Comece a Ler",
+    "ctaPlaceholder": "Seu Endereço de E-mail:",
+    "ctaSuccessMessage": "Inscrito com:",
+    "exploreDashboardText": "Explore nosso painel",
+    "exploreDashboardLink": "/dashboard",
+    "visitorsTitle": "Visitantes",
+    "visitorsCount": "2100",
+    "visitorsPeriod": "Este mês",
+    "growthPercentage": "2,4%",
+    "growthIcon": "ArrowUp",
+    "inspireTitle": "Inspire Sua Jornada",
+    "satisfactionTitle": "Satisfação das Pessoas",
+    "satisfactionPercentage": "95%",
+    "satisfactionProgress": "84%",
+    "backgroundImage": "dashboard.png"
+  },
+  "blogSection": {
+    "categories": [
+      { "label": "Todos", "group": "all" },
+      { "label": "Vida", "group": "lifestyle" },
+      { "label": "Tecnologia", "group": "tech" },
+      { "label": "Criatividade", "group": "creativity" },
+      { "label": "Negócios", "group": "business" }
+    ],
+    "gridSettings": {
+      "gap": "4",
+      "gridColsMd": "2",
+      "gridColsLg": "6",
+      "justifyCenter": true,
+      "mxAuto": true,
+      "mt": "4"
+    },
+    "animationSettings": {
+      "initialOpacity": 0,
+      "initialY": 50,
+      "animateOpacity": 1,
+      "animateY": 0,
+      "transitionDuration": 0.8,
+      "transitionEase": "easeInOut",
+      "viewportOnce": false,
+      "viewportAmount": 0.3
+    },
+    "postStyles": {
+      "pictureItemTransform": true,
+      "transitionTransformDuration": "300ms",
+      "largeItemsSpanCols": 3,
+      "largeItemsSpanRows": 2,
+      "smallItemsSpanCols": 2,
+      "smallItemsSpanRows": 1
+    },
+    "contentStyles": {
+      "padding": 6,
+      "bgColorLight": "white",
+      "bgColorDark": "slate-800"
+    },
+    "readMoreText": "Leia Mais",
+    "readMoreIcon": "uil uil-arrow-right"
+  },
+  "aboutSection": {
+    "experience": {
+      "years": "4",
+      "label": "Anos de Experiência"
+    },
+    "heading": "Quem sou eu?",
+    "description": "Sou João Augusto, um desenvolvedor FullStack com 4 anos de experiência em criar soluções digitais que combinam funcionalidade e design. Ao longo da minha jornada, tenho trabalhado em projetos que vão desde plataformas SaaS até sistemas de gerenciamento personalizados. Minha paixão por tecnologia me impulsiona a constantemente aprender e aplicar novas ferramentas como Tailwind CSS, Next.js e TypeScript para entregar resultados impactantes. Estou sempre em busca de desafios que me permitam inovar e crescer como profissional.",
+    "contactButton": {
+      "text": "Entre em Contato",
+      "href": "contact",
+      "iconClass": "uil uil-envelope"
+    }
+  },
+  "testimonialsSection": {
+    "heading": "O que Nossos Clientes Dizem",
+    "carouselComponent": "CarouselTestimonials"
+  },
+  "authenticationPage": {
+    "title": "Authentication",
+    "description": "Authentication forms built using the components.",
+    "mobileViewImages": {
+      "light": "/login-page-mobile.png",
+      "dark": "/login-page-mobile.png"
+    },
+    "mainContent": {
+      "leftImage": {
+        "src": "/login-page-main.png",
+        "alt": "Authentication",
+        "width": 600,
+        "height": 800
+      },
+      "rightFormSection": {
+        "heading": "Logar ",
+        "subHeading": "Entre com seu e-mail e senha.",
+        "termsText": "Clicando em Entrar, você concorda com nossos Termos e Política de Privacidade.",
+        "termsLink": "/terms",
+        "privacyLink": "/privacy",
+        "termsLinkText": "Termos de Serviço",
+        "privacyLinkText": "Política de Privacidade",
+        "note": {
+          "text": "Se você apenas deseja visualizar a Dashboard, você pode usar as seguintes credenciais para fazer login"
+        }
+      }
+    }
+  },
+  "newsletterSection": {
+    "heading": "Assine nossa newsletter semanal",
+    "description": "Adicione algum texto para explicar os benefícios de se inscrever nos seus serviços. Enviaremos o melhor do nosso blog uma vez por semana.",
+    "inputPlaceholder": "Digite seu e-mail...",
+    "buttonText": "Assine Agora",
+    "validationMessage": "Por favor, insira um endereço de e-mail válido.",
+    "successMessage": "Obrigado por se inscrever!",
+    "errorMessage": "Algo deu errado. Por favor, tente novamente mais tarde."
+  },
+  "recentPostsSection": {
+    "heading": "Posts Recentes",
+    "description": "Comece a trabalhar com Tailwind CSS, que pode fornecer tudo o que você precisa para gerar reconhecimento, atrair tráfego e se conectar.",
+    "noPostsMessage": "Nenhum post disponível para este mês."
+  },
+  "header": {
+    "logoText": "João Augusto Dev Blog",
+    "navigationItems": [
+      { "label": "Blog", "link": "/blog" },
+      { "label": "Sobre", "link": "/#about" },
+      { "label": "Contato", "link": "/contact" },
+      { "label": "Dashboard", "link": "/dashboard" },
+      { "label": "Login", "link": "/login" }
+    ]
+  },
+  "footer": {
+    "aboutUs": {
+      "title": "Sobre Nós",
+      "description": "Somos uma empresa moderna focada em construir as melhores soluções de software para nossos clientes. Nossa missão é impulsionar a inovação e entregar produtos de alta qualidade."
+    },
+    "quickLinks": {
+      "title": "Links Rápidos",
+      "links": [
+        { "label": "Sobre", "href": "/about" },
+        { "label": "Serviços", "href": "/services" },
+        { "label": "Contato", "href": "/contact" },
+        { "label": "Blog", "href": "/blog" },
+        { "label": "Termos de Serviço", "href": "/terms-of-service" },
+        { "label": "Política de Privacidade", "href": "/privacy-policy" }
+      ]
+    },
+    "newsletter": {
+      "title": "Assine nossa Newsletter",
+      "inputPlaceholder": "Digite seu e-mail",
+      "buttonText": "Assinar",
+      "validationMessage": "Por favor, insira um endereço de e-mail válido.",
+      "successMessage": "Obrigado por se inscrever!",
+      "errorMessage": "Algo deu errado. Por favor, tente novamente mais tarde."
+    },
+    "socialLinks": [
+      { "icon": "twitter", "href": "https://twitter.com", "label": "Twitter" },
+      { "icon": "gitHub", "href": "https://github.com", "label": "GitHub" },
+      {
+        "icon": "linkedIn",
+        "href": "https://linkedin.com",
+        "label": "LinkedIn"
+      },
+      {
+        "icon": "instagram",
+        "href": "https://instagram.com",
+        "label": "Instagram"
+      }
+    ],
+    "copyrightText": "{year} Sua Empresa. Todos os direitos reservados."
+  },
+  "blogPage": {
+    "postsPerPage": 6,
+    "author": {
+      "name": "João Augusto",
+      "title": "Programador Full-Stack",
+      "image": "/me.jpeg"
+    },
+    "sections": {
+      "author": "Autor",
+      "recentPosts": "Postagens Recentes",
+      "socialSites": "Medias Sociais",
+      "tagsCloud": "Tags Cloud"
+    },
+    "socialSites": [
+      "facebook",
+      "instagram",
+      "twitter",
+      "linkedin",
+      "github",
+      "youtube",
+      "gitlab"
+    ],
+    "tags": [
+      "Negócios",
+      "Finança",
+      "Marketing",
+      "Fashion",
+      "Lifestyle",
+      "Viagem",
+      "Beleza",
+      "Video",
+      "Audio"
+    ]
+  },
+  "contactPage": {
+    "heading": "Entre em contato!",
+    "formLabels": {
+      "name": "Seu Nome:",
+      "email": "Seu Email:",
+      "subject": "Pergunta:",
+      "comments": "Comentário:"
+    },
+    "formPlaceholders": {
+      "name": "Nome",
+      "email": "Email",
+      "subject": "Assunto",
+      "comments": "Mensagem"
+    },
+    "buttonText": "Enviar Mensagem",
+    "validationError": "Por favor, preencha todos os campos.",
+    "successMessage": "Mensagem enviada com sucesso!",
+    "errorMessage": "Falha ao enviar mensagem. Por favor, tente novamente mais tarde.",
+    "image": {
+      "src": "contact.svg",
+      "alt": "Entre em Contato"
+    }
+  },
+  "page": {
+    "welcomeText": "Olá, bem-vindo de volta 👋",
+    "downloadButtonText": "Baixar",
+    "tabs": {
+      "overview": "Visão Geral",
+      "analytics": "Analytics"
+    },
+    "cards": [
+      {
+        "title": "Receita Total",
+        "value": "$45,231.89",
+        "change": "+20,1% em relação ao mês passado",
+        "icon": "M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"
+      },
+      {
+        "title": "Assinaturas",
+        "value": "+2350",
+        "change": "+180,1% em relação ao mês passado",
+        "icon": "M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2M9 7r4M22 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"
+      },
+      {
+        "title": "Vendas",
+        "value": "+12,234",
+        "change": "+19% em relação ao mês passado",
+        "icon": "M2 10h20M22 12h-4l-3 9L9 3l-3 9H2"
+      },
+      {
+        "title": "Ativo Agora",
+        "value": "+573",
+        "change": "+201 desde a última hora",
+        "icon": "M22 12h-4l-3 9L9 3l-3 9H2"
+      }
+    ],
+    "importantInfo": {
+      "title": "Informação Importante",
+      "description": "Observe que todos os dados exibidos nesta tela, incluindo os números de vendas e outras métricas, são puramente ilustrativos e não refletem valores reais."
+    }
+  },
+  "barGraph": {
+    "title": "Gráfico de Barras - Interativo",
+    "description": "Mostrando o total de visitantes nos últimos 3 meses",
+    "viewsLabel": "Visualizações de Página",
+    "desktopLabel": "Desktop",
+    "mobileLabel": "Mobile",
+    "chartData": [
+      { "date": "2024-04-01", "desktop": 222, "mobile": 150 },
+      { "date": "2024-04-02", "desktop": 97, "mobile": 180 },
+      { "date": "2024-04-03", "desktop": 167, "mobile": 120 },
+      { "date": "2024-04-04", "desktop": 242, "mobile": 260 },
+      { "date": "2024-04-05", "desktop": 373, "mobile": 290 },
+      { "date": "2024-04-06", "desktop": 301, "mobile": 340 },
+      { "date": "2024-04-07", "desktop": 245, "mobile": 180 },
+      { "date": "2024-04-08", "desktop": 409, "mobile": 320 },
+      { "date": "2024-04-09", "desktop": 59, "mobile": 110 },
+      { "date": "2024-04-10", "desktop": 261, "mobile": 190 },
+      { "date": "2024-04-11", "desktop": 327, "mobile": 350 },
+      { "date": "2024-04-12", "desktop": 292, "mobile": 210 },
+      { "date": "2024-04-13", "desktop": 342, "mobile": 380 },
+      { "date": "2024-04-14", "desktop": 137, "mobile": 220 },
+      { "date": "2024-04-15", "desktop": 120, "mobile": 170 },
+      { "date": "2024-04-16", "desktop": 138, "mobile": 190 },
+      { "date": "2024-04-17", "desktop": 446, "mobile": 360 },
+      { "date": "2024-04-18", "desktop": 364, "mobile": 410 },
+      { "date": "2024-04-19", "desktop": 243, "mobile": 180 },
+      { "date": "2024-04-20", "desktop": 89, "mobile": 150 },
+      { "date": "2024-04-21", "desktop": 137, "mobile": 200 },
+      { "date": "2024-04-22", "desktop": 224, "mobile": 170 },
+      { "date": "2024-04-23", "desktop": 138, "mobile": 230 },
+      { "date": "2024-04-24", "desktop": 387, "mobile": 290 },
+      { "date": "2024-04-25", "desktop": 215, "mobile": 250 },
+      { "date": "2024-04-26", "desktop": 75, "mobile": 130 },
+      { "date": "2024-04-27", "desktop": 383, "mobile": 420 },
+      { "date": "2024-04-28", "desktop": 122, "mobile": 180 },
+      { "date": "2024-04-29", "desktop": 315, "mobile": 240 },
+      { "date": "2024-04-30", "desktop": 454, "mobile": 380 },
+      { "date": "2024-05-01", "desktop": 165, "mobile": 220 },
+      { "date": "2024-05-02", "desktop": 293, "mobile": 310 },
+      { "date": "2024-05-03", "desktop": 247, "mobile": 190 },
+      { "date": "2024-05-04", "desktop": 385, "mobile": 420 },
+      { "date": "2024-05-05", "desktop": 481, "mobile": 390 },
+      { "date": "2024-05-06", "desktop": 498, "mobile": 520 },
+      { "date": "2024-05-07", "desktop": 388, "mobile": 300 },
+      { "date": "2024-05-08", "desktop": 149, "mobile": 210 },
+      { "date": "2024-05-09", "desktop": 227, "mobile": 180 },
+      { "date": "2024-05-10", "desktop": 293, "mobile": 330 },
+      { "date": "2024-05-11", "desktop": 335, "mobile": 270 },
+      { "date": "2024-05-12", "desktop": 197, "mobile": 240 },
+      { "date": "2024-05-13", "desktop": 197, "mobile": 160 },
+      { "date": "2024-05-14", "desktop": 448, "mobile": 490 },
+      { "date": "2024-05-15", "desktop": 473, "mobile": 380 },
+      { "date": "2024-05-16", "desktop": 338, "mobile": 400 },
+      { "date": "2024-05-17", "desktop": 499, "mobile": 420 },
+      { "date": "2024-05-18", "desktop": 315, "mobile": 350 },
+      { "date": "2024-05-19", "desktop": 235, "mobile": 180 },
+      { "date": "2024-05-20", "desktop": 177, "mobile": 230 },
+      { "date": "2024-05-21", "desktop": 82, "mobile": 140 },
+      { "date": "2024-05-22", "desktop": 81, "mobile": 120 },
+      { "date": "2024-05-23", "desktop": 252, "mobile": 290 },
+      { "date": "2024-05-24", "desktop": 294, "mobile": 220 },
+      { "date": "2024-05-25", "desktop": 201, "mobile": 250 },
+      { "date": "2024-05-26", "desktop": 213, "mobile": 170 },
+      { "date": "2024-05-27", "desktop": 420, "mobile": 460 },
+      { "date": "2024-05-28", "desktop": 233, "mobile": 190 },
+      { "date": "2024-05-29", "desktop": 78, "mobile": 130 },
+      { "date": "2024-05-30", "desktop": 340, "mobile": 280 },
+      { "date": "2024-05-31", "desktop": 178, "mobile": 230 },
+      { "date": "2024-06-01", "desktop": 178, "mobile": 200 },
+      { "date": "2024-06-02", "desktop": 470, "mobile": 410 },
+      { "date": "2024-06-03", "desktop": 103, "mobile": 160 },
+      { "date": "2024-06-04", "desktop": 439, "mobile": 380 },
+      { "date": "2024-06-05", "desktop": 88, "mobile": 140 },
+      { "date": "2024-06-06", "desktop": 294, "mobile": 250 },
+      { "date": "2024-06-07", "desktop": 323, "mobile": 370 },
+      { "date": "2024-06-08", "desktop": 385, "mobile": 320 },
+      { "date": "2024-06-09", "desktop": 438, "mobile": 480 },
+      { "date": "2024-06-10", "desktop": 155, "mobile": 200 },
+      { "date": "2024-06-11", "desktop": 92, "mobile": 150 },
+      { "date": "2024-06-12", "desktop": 492, "mobile": 420 },
+      { "date": "2024-06-13", "desktop": 81, "mobile": 130 },
+      { "date": "2024-06-14", "desktop": 426, "mobile": 380 },
+      { "date": "2024-06-15", "desktop": 307, "mobile": 350 },
+      { "date": "2024-06-16", "desktop": 371, "mobile": 310 },
+      { "date": "2024-06-17", "desktop": 475, "mobile": 520 },
+      { "date": "2024-06-18", "desktop": 107, "mobile": 170 },
+      { "date": "2024-06-19", "desktop": 341, "mobile": 290 },
+      { "date": "2024-06-20", "desktop": 408, "mobile": 450 },
+      { "date": "2024-06-21", "desktop": 169, "mobile": 210 },
+      { "date": "2024-06-22", "desktop": 317, "mobile": 270 },
+      { "date": "2024-06-23", "desktop": 480, "mobile": 530 },
+      { "date": "2024-06-24", "desktop": 132, "mobile": 180 },
+      { "date": "2024-06-25", "desktop": 141, "mobile": 190 },
+      { "date": "2024-06-26", "desktop": 434, "mobile": 380 },
+      { "date": "2024-06-27", "desktop": 448, "mobile": 490 },
+      { "date": "2024-06-28", "desktop": 149, "mobile": 200 },
+      { "date": "2024-06-29", "desktop": 103, "mobile": 160 },
+      { "date": "2024-06-30", "desktop": 446, "mobile": 400 }
+    ]
+  },
+  "areaGraph": {
+    "title": "Gráfico de Área - Empilhado",
+    "description": "Mostrando o total de visitantes nos últimos 6 meses",
+    "trendingText": "Tendência de alta em 5.2% este mês",
+    "timePeriod": "Janeiro - Junho 2024",
+    "chartData": [
+      { "month": "Janeiro", "desktop": 186, "mobile": 80 },
+      { "month": "Fevereiro", "desktop": 305, "mobile": 200 },
+      { "month": "Março", "desktop": 237, "mobile": 120 },
+      { "month": "Abril", "desktop": 73, "mobile": 190 },
+      { "month": "Maio", "desktop": 209, "mobile": 130 },
+      { "month": "Junho", "desktop": 214, "mobile": 140 }
+    ],
+    "chartConfig": {
+      "desktop": {
+        "label": "Desktop",
+        "color": "hsl(var(--chart-1))"
+      },
+      "mobile": {
+        "label": "Mobile",
+        "color": "hsl(var(--chart-2))"
+      }
+    }
+  },
+  "pieGraph": {
+    "title": "Gráfico de Pizza - Donut com Texto",
+    "description": "Janeiro - Junho 2024",
+    "trendingText": "Tendência de alta em 5.2% este mês",
+    "footerText": "Mostrando o total de visitantes nos últimos 6 meses",
+    "totalVisitorsLabel": "Visitantes",
+    "chartData": [
+      { "browser": "chrome", "visitors": 275, "fill": "var(--color-chrome)" },
+      { "browser": "safari", "visitors": 200, "fill": "var(--color-safari)" },
+      { "browser": "firefox", "visitors": 287, "fill": "var(--color-firefox)" },
+      { "browser": "edge", "visitors": 173, "fill": "var(--color-edge)" },
+      { "browser": "other", "visitors": 190, "fill": "var(--color-other)" }
+    ],
+    "chartConfig": {
+      "visitors": {
+        "label": "Visitantes"
+      },
+      "chrome": {
+        "label": "Chrome",
+        "color": "hsl(var(--chart-1))"
+      },
+      "safari": {
+        "label": "Safari",
+        "color": "hsl(var(--chart-2))"
+      },
+      "firefox": {
+        "label": "Firefox",
+        "color": "hsl(var(--chart-3))"
+      },
+      "edge": {
+        "label": "Edge",
+        "color": "hsl(var(--chart-4))"
+      },
+      "other": {
+        "label": "Other",
+        "color": "hsl(var(--chart-5))"
+      }
+    }
+  },
+  "dataTableConfig": {
+    "columns": [
+      {
+        "id": "select",
+        "header": "Selecionar Todos",
+        "enableSorting": false,
+        "enableHiding": false
+      },
+      {
+        "accessorKey": "title",
+        "header": "Título"
+      },
+      {
+        "accessorKey": "views",
+        "header": "Visualizações",
+        "sortable": true
+      },
+      {
+        "accessorKey": "likes",
+        "header": "Curtidas",
+        "sortable": true
+      },
+      {
+        "id": "actions",
+        "header": "Ações",
+        "enableHiding": false
+      }
+    ],
+    "filterPlaceholder": "Filtrar Títulos...",
+    "actions": {
+      "copyPostId": "Copiar ID do post",
+      "openPost": "Abrir a postagem"
+    },
+    "pagination": {
+      "previous": "Anterior",
+      "next": "Próximo",
+      "selectedRows": "linha(s) selecionada(s)."
+    }
+  },
+  "profileForm": {
+    "fields": {
+      "name": {
+        "label": "Nome de usuário",
+        "description": "Este é o seu nome público. Pode ser seu nome real ou um pseudônimo. Você só pode alterá-lo uma vez a cada 30 dias.",
+        "validation": {
+          "minLength": 2,
+          "minMessage": "O nome de usuário deve ter pelo menos 2 caracteres.",
+          "maxLength": 30,
+          "maxMessage": "O nome de usuário não deve ter mais que 30 caracteres."
+        }
+      },
+      "email": {
+        "label": "E-mail",
+        "description": "Você pode gerenciar endereços de e-mail verificados nas suas configurações de e-mail."
+      },
+      "button": {
+        "text": "Atualizar perfil"
+      }
+    },
+    "links": {
+      "emailSettings": "/exemplos/formularios"
+    }
+  },
+  "privacyPolicy": {
+    "sectionTitle": "Política de Privacidade",
+    "introduction": {
+      "heading": "Política de Privacidade",
+      "content": "Sua privacidade é importante para nós. É nossa política respeitar sua privacidade e cumprir com qualquer lei e regulamentação aplicável em relação a qualquer informação pessoal que possamos coletar sobre você, inclusive em nosso site e outros sites que possuímos e operamos."
+    },
+    "informationWeCollect": {
+      "heading": "Informações Que Coletamos",
+      "content": "Podemos coletar informações pessoais suas quando você realiza qualquer uma das seguintes ações em nosso site:",
+      "listItems": [
+        "Inscrever-se para receber atualizações de nossa parte via e-mail ou redes sociais",
+        "Usar um dispositivo móvel ou navegador da web para acessar nosso conteúdo",
+        "Entrar em contato conosco via e-mail, redes sociais ou outras tecnologias semelhantes",
+        "Mencionar-nos nas redes sociais"
+      ],
+      "additionalContent": "Podemos coletar, armazenar, usar e divulgar informações para os seguintes fins, e as informações pessoais não serão processadas de maneira incompatível com esses fins:"
+    },
+    "security": {
+      "heading": "Segurança das Suas Informações Pessoais",
+      "content": "Quando coletamos e processamos informações pessoais, e enquanto retemos essas informações, iremos protegê-las por meios comercialmente aceitáveis para evitar perda e roubo, bem como acesso, divulgação, cópia, uso ou modificação não autorizados."
+    },
+    "retention": {
+      "heading": "Por Quanto Tempo Mantemos Suas Informações Pessoais",
+      "content": "Mantemos suas informações pessoais apenas pelo tempo que for necessário. Esse período pode depender de para que estamos usando suas informações, de acordo com esta política de privacidade."
+    },
+    "yourRights": {
+      "heading": "Seus Direitos e Controle Sobre Suas Informações Pessoais",
+      "content": "Você sempre tem o direito de reter informações pessoais de nós, entendendo que sua experiência em nosso site pode ser afetada. Não iremos discriminar você por exercer qualquer um dos seus direitos sobre suas informações pessoais."
+    },
+    "changesToPolicy": {
+      "heading": "Alterações a Esta Política",
+      "content": "A nosso critério, podemos alterar nossa política de privacidade para refletir atualizações em nossos processos de negócios, práticas aceitáveis ou mudanças legislativas ou regulatórias. Se decidirmos alterar esta política de privacidade, publicaremos as alterações aqui no mesmo link pelo qual você está acessando esta política de privacidade."
+    },
+    "contactUs": {
+      "heading": "Entre em Contato Conosco",
+      "content": "Para quaisquer perguntas ou preocupações relacionadas à sua privacidade, você pode nos contatar utilizando os seguintes detalhes:",
+      "contactDetails": {
+        "emailLabel": "E-mail:",
+        "email": "support@example.com"
+      }
+    }
+  },
+  "termsOfService": {
+    "pageTitle": "Termos de Serviço",
+    "lastUpdated": "Última atualização: 31 de agosto de 2024",
+    "sections": [
+      {
+        "heading": "1. Concordância com os Termos",
+        "content": "Ao acessar e usar nosso site, você concorda em se comprometer com estes Termos de Serviço e todas as leis e regulamentos aplicáveis. Se você não concorda com algum destes termos, está proibido de usar ou acessar este site."
+      },
+      {
+        "heading": "2. Alterações nos Termos",
+        "content": "Reservamo-nos o direito, a nosso exclusivo critério, de modificar ou substituir estes Termos de Serviço a qualquer momento. Se uma revisão for significativa, tentaremos fornecer um aviso com pelo menos 30 dias de antecedência antes de quaisquer novos termos entrarem em vigor. O que constitui uma mudança significativa será determinado a nosso exclusivo critério."
+      },
+      {
+        "heading": "3. Direitos de Propriedade Intelectual",
+        "content": "Todo o conteúdo e materiais disponíveis neste site, incluindo, mas não se limitando a texto, gráficos, nome do site, código, imagens e logotipos, são de propriedade intelectual de nossa empresa e são protegidos pelas leis de direitos autorais e marcas registradas aplicáveis. Qualquer uso não autorizado, incluindo a reprodução, distribuição, exibição ou transmissão do conteúdo deste site é estritamente proibido."
+      },
+      {
+        "heading": "4. Limitação de Responsabilidade",
+        "content": "Em nenhuma circunstância nossa empresa, nem nossos diretores, funcionários, parceiros, agentes, fornecedores ou afiliados serão responsáveis por quaisquer danos indiretos, incidentais, especiais, consequenciais ou punitivos, incluindo, sem limitação, perda de lucros, dados, uso, boa vontade ou outras perdas intangíveis, resultantes de (i) seu acesso ou uso ou incapacidade de acessar ou usar o serviço; (ii) qualquer conduta ou conteúdo de qualquer terceiro no serviço; (iii) qualquer conteúdo obtido do serviço; e (iv) acesso não autorizado, uso ou alteração de suas transmissões ou conteúdo, seja baseado em garantia, contrato, responsabilidade civil (incluindo negligência) ou qualquer outra teoria jurídica, independentemente de termos sido informados ou não da possibilidade de tais danos, e mesmo que um remédio estabelecido neste documento seja considerado como falho em seu propósito essencial."
+      },
+      {
+        "heading": "5. Lei Aplicável",
+        "content": "Estes Termos serão regidos e interpretados de acordo com as leis de [Seu Estado/País], sem considerar suas disposições sobre conflitos de leis. Nossa falha em fazer cumprir qualquer direito ou disposição destes Termos não será considerada uma renúncia a esses direitos. Se qualquer disposição destes Termos for considerada inválida ou inexequível por um tribunal, as disposições restantes destes Termos permanecerão em vigor. Estes Termos constituem o acordo integral entre nós sobre nosso Serviço e substituem e substituem quaisquer acordos anteriores que possamos ter entre nós sobre o Serviço."
+      },
+      {
+        "heading": "6. Entre em Contato Conosco",
+        "content": "Se você tiver alguma dúvida sobre estes Termos, entre em contato conosco em {email}"
+      }
+    ],
+    "email": "support@example.com"
+  }
+}

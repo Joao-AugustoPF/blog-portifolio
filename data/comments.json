@@ -1,0 +1,95 @@
+{
+  "comments": {
+    "36f52579-2384-4a14-9af2-90d2099f9d37": [
+      {
+        "id": 1,
+        "author": "João Augusto",
+        "content": "Esse post foi muito útil para mim, obrigado por compartilhar!",
+        "created_at": "2024-09-02T10:15:30.000Z",
+        "authorAvatar": "/01.jpg"
+      },
+      {
+        "id": 2,
+        "author": "Maria Clara",
+        "content": "Adorei o conteúdo, muito bem explicado.",
+        "created_at": "2024-09-02T12:22:45.000Z",
+        "authorAvatar": "/02.jpg"
+      }
+    ],
+    "a1b2c3d4-1234-5678-9abc-12345d6789ab": [
+      {
+        "id": 1,
+        "author": "Pedro Santos",
+        "content": "Esse artigo esclareceu muitas dúvidas que eu tinha.",
+        "created_at": "2024-09-02T14:08:56.000Z",
+        "authorAvatar": "/03.jpg"
+      },
+      {
+        "id": 2,
+        "author": "Carla Souza",
+        "content": "Muito interessante, vou aplicar as dicas no meu trabalho.",
+        "created_at": "2024-09-02T15:45:12.000Z",
+        "authorAvatar": "/04.jpg"
+      }
+    ],
+    "e5f6g7h8-2345-6789-0abc-23456e7890bc": [
+      {
+        "id": 1,
+        "author": "Lucas Oliveira",
+        "content": "Gostei muito deste post, me ajudou a resolver um problema.",
+        "created_at": "2024-09-02T16:20:10.000Z",
+        "authorAvatar": "/05.jpg"
+      }
+    ],
+    "i9j0k1l2-3456-7890-1abc-34567f8901cd": [
+      {
+        "id": 1,
+        "author": "Ana Beatriz",
+        "content": "Excelente conteúdo, bem direto ao ponto!",
+        "created_at": "2024-09-02T17:10:05.000Z",
+        "authorAvatar": "/03.jpg"
+      },
+      {
+        "id": 2,
+        "author": "Fernando Almeida",
+        "content": "Muito bom, obrigado por compartilhar.",
+        "created_at": "2024-09-02T18:30:42.000Z",
+        "authorAvatar": "/02.jpg"
+      }
+    ],
+    "m3n4o5p6-4567-8901-2abc-45678g9012de": [
+      {
+        "id": 1,
+        "author": "Bruna Lima",
+        "content": "Adorei o post, muito esclarecedor.",
+        "created_at": "2024-09-02T19:45:33.000Z",
+        "authorAvatar": "/03.jpg"
+      }
+    ],
+    "129fe61d-dac9-4027-98c8-a9713366c590": [
+      {
+        "id": 1,
+        "author": "Gabriel Ferreira",
+        "content": "Esse artigo me ajudou a entender melhor o assunto.",
+        "created_at": "2024-09-02T20:50:20.000Z",
+        "authorAvatar": "/01.jpg"
+      },
+      {
+        "id": 2,
+        "author": "Juliana Costa",
+        "content": "Muito bom, gostei bastante do conteúdo.",
+        "created_at": "2024-09-02T21:15:55.000Z",
+        "authorAvatar": "/03.jpg"
+      }
+    ],
+    "d699df2d-120e-4afc-b86d-fa6293fe7c9f": [
+      {
+        "id": 1,
+        "author": "Thiago Pereira",
+        "content": "Informações valiosas, obrigado por compartilhar.",
+        "created_at": "2024-09-02T22:10:48.000Z",
+        "authorAvatar": "/02.jpg"
+      }
+    ]
+  }
+}
