@@ -11,12 +11,12 @@ export const navItems: NavItem[] = [
     title: "Blog",
     href: "/dashboard/blog",
     icon: "edit",
-    label: "blog",
+    label: "Blog",
   },
   {
     title: "Profile",
     href: "/dashboard/profile",
     icon: "profile",
-    label: "profile",
+    label: "Profile",
   },
 ];
